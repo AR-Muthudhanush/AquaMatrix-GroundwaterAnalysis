@@ -8,8 +8,8 @@ To get started with the AquaMatrix project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/aquamatrix.git
-   cd aquamatrix
+   git clone https://github.com/AR-Muthudhanush/AquaMatrix-GroundwaterAnalysis.git
+   cd AquaMatrix-GroundwaterAnalysis
    ```
    
 2. **Run the Notebook**:
